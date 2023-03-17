@@ -5,10 +5,10 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
 
 - <b>SQL (Data Analysis)</b>
 
-  - [Customer Orders & Analytics](https://github.com/yeahglo/SQL/blob/main/Customers%20%26%20Orders%20Analytics)
-  - [International Store Analysis](https://github.com/yeahglo/SQL/blob/main/International%20Store)
   - [Spotify Analysis](https://github.com/yeahglo/SQL/blob/main/Spotify%20Analytics)
   - [Netflix Analysis (PostgreSQL)](https://github.com/yeahglo/SQL/blob/main/Netflix%20Analysis%20(PostgreSQL))
+  - [Customer Orders & Analytics](https://github.com/yeahglo/SQL/blob/main/Customers%20%26%20Orders%20Analytics)
+  - [International Store Analysis](https://github.com/yeahglo/SQL/blob/main/International%20Store)
 
 
 
