@@ -10,6 +10,9 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
   - [Customer Orders & Analytics](https://github.com/yeahglo/SQL/blob/main/Customers%20%26%20Orders%20Analytics)
   - [International Store Analysis](https://github.com/yeahglo/SQL/blob/main/International%20Store)
 
+- <b>Tableau (Data Analysis)</b>
+
+  - [Excutive Overview](https://public.tableau.com/app/profile/gloria/viz/ExecutiveOverview-SampleSuperstore_16769916744370/ExecutiveOverview)
 
 
 <h2>👩🏻‍💻 Connect with me:</h2>
