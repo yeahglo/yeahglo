@@ -3,17 +3,19 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
 
 <h2>📊 Data Analytics Projects</h2>
 
-- <b>SQL (Data Analysis)</b>
+- <b>SQL</b>
 
   - [Spotify Analysis](https://github.com/yeahglo/SQL/blob/main/Spotify%20Analytics)
   - [Netflix Analysis (PostgreSQL)](https://github.com/yeahglo/SQL/blob/main/Netflix%20Analysis%20(PostgreSQL))
   - [Customer Orders & Analytics](https://github.com/yeahglo/SQL/blob/main/Customers%20%26%20Orders%20Analytics)
   - [International Store Analysis](https://github.com/yeahglo/SQL/blob/main/International%20Store)
 
-- <b>Tableau (Data Analysis)</b>
+- <b>Tableau</b>
 
   - [Excutive Overview](https://public.tableau.com/app/profile/gloria/viz/ExecutiveOverview-SampleSuperstore_16769916744370/ExecutiveOverview)
   - [Sales Dashboard](https://public.tableau.com/app/profile/gloria/viz/SalesDashboard-February2019/SalesOrders)
+  - [AirBnB Research (Seattle)](https://public.tableau.com/app/profile/gloria/viz/AirBnBFullProject_16499573288650/Dashboard1)
+  - [World COVID Data (North America)](https://public.tableau.com/app/profile/gloria/viz/WorldCOVIDData_16747072482070/WorldCOVIDData)
 
 <h2>👩🏻‍💻 Connect with me:</h2>
 
