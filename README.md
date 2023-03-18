@@ -13,7 +13,6 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
 - <b>Tableau (Data Analysis)</b>
 
   - [Excutive Overview](https://public.tableau.com/app/profile/gloria/viz/ExecutiveOverview-SampleSuperstore_16769916744370/ExecutiveOverview)
-  - [Sales Dashboard](https://public.tableau.com/app/profile/gloria/viz/SalesDashboard-February2019/SalesOrders16769916744370/ExecutiveOverview)
 
 <h2>👩🏻‍💻 Connect with me:</h2>
 
