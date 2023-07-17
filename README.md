@@ -10,7 +10,7 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
 
 <h2>📊 Data Analytics Projects</h2>
 
-- <b>SQL Analyses</b>
+- <b>SQL Analytics</b>
   - [Customer Orders & Analytics](https://github.com/yeahglo/SQL/blob/main/Customers%20%26%20Orders%20Analytics)
   - [Netflix Analysis (PostgreSQL)](https://github.com/yeahglo/SQL/blob/main/Netflix%20Analysis%20(PostgreSQL))
 - <b>Tableau Dashboards</b>
