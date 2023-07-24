@@ -1,7 +1,7 @@
-<h1>Hi, I'm Gloria.</h1>
+<h1>Hi, I'm Gloria, an IT Professional 👩🏻‍💻</h1>
 Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if you have any questions.
 
-<h2>👩🏻‍💻 Information Technology Projects</h2>
+<h2>💻 Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/yeahglo/osticket-prereqs)
@@ -20,7 +20,7 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
   - [Excutive Overview](https://public.tableau.com/app/profile/gloria/viz/ExecutiveOverview-SampleSuperstore_16769916744370/ExecutiveOverview)
   - [Sales Dashboard](https://public.tableau.com/app/profile/gloria/viz/SalesDashboard-February2019/SalesOrders)
 
-<h2>💬 Connect with me</h2>
+<h2> Connect with me</h2>
 
 [<img align="left" alt="Gloria Lopez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
