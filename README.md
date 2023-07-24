@@ -9,7 +9,7 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
   - [osTicket: Ticket Lifecycle Examples](https://github.com/yeahglo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/yeahglo/configure-ad)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/yeahglo/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/yeahglo/azure-network-protocols)
 
 <h2>📊 Data Analytics Projects</h2>
 
