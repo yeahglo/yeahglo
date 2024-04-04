@@ -10,7 +10,7 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
   - [Excutive Overview](https://public.tableau.com/app/profile/gloria/viz/ExecutiveOverview-SampleSuperstore_16769916744370/ExecutiveOverview)
   - [Sales Dashboard](https://public.tableau.com/app/profile/gloria/viz/SalesDashboard-February2019/SalesOrders)
 
-  <h2>💻 Information Technology Projects</h2>
+<h2>💻 Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/yeahglo/osticket-prereqs)
